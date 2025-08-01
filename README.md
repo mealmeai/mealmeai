@@ -1,1 +1,1 @@
-## Profile moved to: http://github.com/rockyide
+## Profile has been moved to: http://github.com/rockyide
