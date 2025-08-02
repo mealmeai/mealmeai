@@ -1,5 +1,5 @@
-## Git Profile has been moved to: http://github.com/rockyide
+# Git Profile username changed to: http://github.com/rockyide
 
-#### Please visit above profile going forward!
+### Please visit above profile going forward!
 
-##### Thank you
+#### Thank you
